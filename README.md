@@ -1,0 +1,2 @@
+# DiceRandomGenerator
+Генератор брошенных кубиков 
